@@ -17,3 +17,5 @@ Links to my Social Media💻:
 - GitHub: https://github.com/Kardev07
 - Mail: karthik.pariti101@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07)](https://github.com/anuraghazra/github-readme-stats)
+
