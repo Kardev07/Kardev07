@@ -1,15 +1,19 @@
 ### Hi there 👋
 
 
+I am an aspiring Web Developer and AI Engineer
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ReactJS, NextJS, AI
+- 👯 I’m looking to collaborate on any Web Devlopment or AI Project
+- 🤔 I’m looking for a breakthrough in my Web Devlopment Career!
+- 💬 Ask me about how I got into programming and my interests!
+- 📫 How to reach me: Mail me: karthik.pariti101@gmail.com
+- 🙆‍♂️ Check out my resume: https://kardev07.github.io/my-portfolio/
+- ⚡ Fun fact: I used to hate Programming once!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Links to my Social Media💻:
+- Twitter: https://twitter.com/MrPkar
+- Instagram: https://www.instagram.com/__mr.pkar__/
+- GitHub: https://github.com/Kardev07
+- Mail: karthik.pariti101@gmail.com
 
