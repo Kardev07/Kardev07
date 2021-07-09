@@ -18,6 +18,6 @@ Links to my Social Media💻:
 - Mail: karthik.pariti101@gmail.com
 
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=radical)
+![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=radical)
 
 
