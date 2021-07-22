@@ -8,7 +8,7 @@ I am an aspiring Web Developer and AI Engineer
 - 🤔 I’m looking for a breakthrough in my Web Devlopment Career!
 - 💬 Ask me about how I got into programming and my interests!
 - 📫 How to reach me: Mail Me: karthik.pariti101@gmail.com
-- 🙆‍♂️ Check out my Resume: https://resume-4af62.web.app
+- 🙆‍♂️ Check out my Resume: https://resume-9f5c3.web.app/
 - 🙆‍♂️ Check out my Portfolio: https://kardev07.github.io/my-portfolio/
 - ⚡ Fun fact: I used to hate Programming once!!
 
