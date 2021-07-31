@@ -1,4 +1,6 @@
-### <Hi there I am Karthik Pariti👋 />
+### <Hi there👋 />
+
+## I am Karthik Pariti
 
 
 I am an aspiring Web Developer and AI Engineer
