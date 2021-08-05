@@ -7,7 +7,7 @@
 </h1>
 
 
-[![GitHub Kardev07](https://img.shields.io/github/followers/Rozen2007?label=follow&style=social)](https://github.com/Kardev07)
+[![GitHub Kardev07](https://img.shields.io/github/followers/Kardev07?label=follow&style=social)](https://github.com/Kardev07)
 
 
 I am an aspiring Web Developer and AI Engineer
