@@ -2,7 +2,9 @@
     < Hi There! /> 👋
 </h2>
 
-## I am Karthik Pariti
+<h3 align="center">
+    I am Karthik Pariti
+</h3>
 
 
 I am an aspiring Web Developer and AI Engineer
