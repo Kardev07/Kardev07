@@ -1,4 +1,6 @@
-### <Hi there 👋 /> 
+<p align="center">
+  <Hi There 👋 />
+</p>
 
 ## I am Karthik Pariti
 
