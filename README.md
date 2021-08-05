@@ -1,5 +1,5 @@
 <p align="center">
-  <Hi There 👋 />
+    Hi There!
 </p>
 
 ## I am Karthik Pariti
