@@ -32,7 +32,7 @@ Links to my Social Media💻:
 </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=radical" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kardev07)](https://github.com/anuraghazra/github-readme-stats)
