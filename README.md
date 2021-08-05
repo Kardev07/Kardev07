@@ -35,9 +35,9 @@ Links to my Social Media💻:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kardev07)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">
+<h1 align="center">
     Feel free to refer or fork the repos and be sure to star them!
-</h2>
+</h1>
 
 <h6 align="left">
     Made by Karthik
