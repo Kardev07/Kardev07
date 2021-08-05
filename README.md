@@ -1,10 +1,10 @@
-<h2 align="center">
+<h1 align="center">
     < Hi There! /> 👋
-</h2>
+</h1>
 
-<h3 align="center">
+<h2 align="center">
     I am Karthik Pariti
-</h3>
+</h2>
 
 
 I am an aspiring Web Developer and AI Engineer
