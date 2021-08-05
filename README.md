@@ -6,9 +6,6 @@
     I am Karthik Pariti
 </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A$2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
-
 [![GitHub Kardev07](https://img.shields.io/github/followers/Kardev07?label=follow&style=social)](https://github.com/Kardev07)
 
 
