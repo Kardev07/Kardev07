@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
     < Hi There! /> 👋
-</h3>
+</h2>
 
 <h1 align="center">
     I am Karthik Pariti
