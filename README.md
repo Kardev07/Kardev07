@@ -27,7 +27,10 @@
 
 - [Cloud Computing Services and how to add Google Firebase to your Web Application](https://karthikpariti.medium.com/cloud-computing-services-and-how-to-add-google-firebase-to-your-web-app-96ef74939e62)
 
-Links to my Social Media💻:
+<h3>
+    Links to my Social Media💻:
+</h3>
+
 - Twitter: [Twitter](https://twitter.com/MrPkar)
 - Instagram: [Instagram](https://www.instagram.com/__mr.pkar__/)
 - GitHub: [Github](https://github.com/Kardev07)
