@@ -31,7 +31,7 @@
     Links to my Social Media💻:
 </h3>
 
-- Twitter: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+- Twitter: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 - Instagram: [Instagram](https://www.instagram.com/__mr.pkar__/)
 - GitHub: [Github](https://github.com/Kardev07)
 - Mail: [My Mail](karthik.pariti101@gmail.com)
