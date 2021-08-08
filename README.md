@@ -33,7 +33,7 @@
 
 - [<img width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
 - [<img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-- GitHub: [Github](https://github.com/Kardev07)
+- [<img width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
 - Mail: [My Mail](karthik.pariti101@gmail.com)
 
 <h3 align="center">
