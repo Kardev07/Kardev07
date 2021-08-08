@@ -31,10 +31,10 @@
     Links to my Social Media💻:
 </h3>
 
-- [<img width="35px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
-- [<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-- [<img width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
-- Mail: [My Mail](karthik.pariti101@gmail.com)
+- [<img width="40px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
+- [<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+- [<img width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+- [<img width="40px" src="" />][mail]
 
 <h3 align="center">
     My Statistics
@@ -55,6 +55,7 @@
 [twitter]: https://twitter.com/MrPkar
 [instagram]: https://www.instagram.com/__mr.pkar__/
 [github]: https://github.com/Kardev07
+[mail]: karthik.pariti101@gmail.com
 
 
 
