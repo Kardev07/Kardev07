@@ -33,7 +33,7 @@
 
 - [<img width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
 - [<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-- [<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952117478547456/github-icon-white-2.png" />][github]
+- [<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952168179281960/UHqP0Hyalcn6Tqx5oAAAAASUVORK5CYII.png" />][github]
 - [<img width="45px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" />][mail]
 
 <h3 align="center">
