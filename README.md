@@ -31,7 +31,7 @@
     Links to my Social Media💻:
 </h3>
 
-- Twitter: [<img width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Ftwitter-logo-2429.html&psig=AOvVaw2JzI4wkvVFM__3wmXITKRY&ust=1628521635094000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjsnYLaofICFQAAAAAdAAAAABAD" />][twitter]
+- Twitter: [<img width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
 - Instagram: [Instagram](https://www.instagram.com/__mr.pkar__/)
 - GitHub: [Github](https://github.com/Kardev07)
 - Mail: [My Mail](karthik.pariti101@gmail.com)
