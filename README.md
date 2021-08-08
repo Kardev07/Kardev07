@@ -37,7 +37,7 @@
 - [<img width="45px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" />][mail]
 
 <h3 align="center">
-    My Statistics
+   📊 My Statistics
 </h3>
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=radical)
