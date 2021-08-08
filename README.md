@@ -20,7 +20,9 @@ I am an aspiring Web Developer and AI Engineer
 - 🙆‍♂️ Check out my [Portfolio](https://kardev07.github.io/my-portfolio/)
 - ⚡ Fun fact: I used to hate Programming once!!
 
-Links to my blogs:
+<h3>
+    📕 Links to my Blogs
+</h3>
 - [Cloud Computing Services and how to add Google Firebase to your Web Application](https://karthikpariti.medium.com/cloud-computing-services-and-how-to-add-google-firebase-to-your-web-app-96ef74939e62)
 
 Links to my Social Media💻:
