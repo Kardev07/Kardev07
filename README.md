@@ -44,7 +44,7 @@
 [<img width="45px" padding="10px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode] &nbsp;&nbsp;
 [<img width="45px" src="https://www.programmersought.com/images/282/eb2c5acfb0cf98f7219e8195e43c5732.png" />][anaconda] &nbsp;&nbsp;
 [<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952168179281960/UHqP0Hyalcn6Tqx5oAAAAASUVORK5CYII.png" />][github] &nbsp;&nbsp;
-
+[<img width="45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />][git] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -68,6 +68,7 @@
 [mail]: mailto:karthik.pariti101@gmail.com
 [vscode]: https://code.visualstudio.com/
 [anaconda]: https://www.anaconda.com/
+[git]: https://git-scm.com/
 
 
 
