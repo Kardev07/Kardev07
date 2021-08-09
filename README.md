@@ -51,6 +51,7 @@
 [<img width="50px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />][react] &nbsp;&nbsp;
 [<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />][next] &nbsp;&nbsp;
 [<img width="50px" src="https://img.icons8.com/color/452/nodejs.png" />][node] &nbsp;&nbsp;
+[<img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -81,6 +82,7 @@
 [react]: https://reactjs.org/
 [next]: https://nextjs.org/
 [node]: https://nodejs.org/
+[python]: https://www.python.org/
 
 
 
