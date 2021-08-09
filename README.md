@@ -41,7 +41,7 @@
     Languages and Tools used
 </h3>
 
-[<img width="45px" padding-right: "10px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode]
+[<img width="45px" padding-right="10px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode]
 [<img width="45px" src="https://www.programmersought.com/images/282/eb2c5acfb0cf98f7219e8195e43c5732.png" />][anaconda]
 
 <h3 align="center">
