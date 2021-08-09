@@ -41,7 +41,7 @@
     Languages and Tools used
 </h3>
 
-[<img width="45px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode]
+[<img width="45px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode] <br>
 [<img width="45px" src="https://docs.anaconda.com/_images/Navigator_Launchpad_icon.png" />][anaconda]
 
 <h3 align="center">
