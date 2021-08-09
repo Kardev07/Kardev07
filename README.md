@@ -37,6 +37,12 @@
 - [<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952168179281960/UHqP0Hyalcn6Tqx5oAAAAASUVORK5CYII.png" />][github]
 - [<img width="45px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" />][mail]
 
+<h3>
+    Languages and Tools used
+</h3>
+
+[<img width="45px" src="https://techinscribed.com/wp-content/uploads/2019/12/vscode.png" />][vscode]
+
 <h3 align="center">
    📊 My Statistics
 </h3>
@@ -57,6 +63,7 @@
 [instagram]: https://www.instagram.com/__mr.pkar__/
 [github]: https://github.com/Kardev07
 [mail]: mailto:karthik.pariti101@gmail.com
+[vscode]: https://code.visualstudio.com/
 
 
 
