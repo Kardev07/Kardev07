@@ -53,6 +53,7 @@
 [<img width="50px" src="https://img.icons8.com/color/452/nodejs.png" />][node] &nbsp;&nbsp;
 [<img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python] &nbsp;&nbsp;
 [<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c] &nbsp;&nbsp;
+[<img width="50px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" />][firebase] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -85,6 +86,7 @@
 [node]: https://nodejs.org/
 [python]: https://www.python.org/
 [c]: https://www.cprogramming.com/
+[firebase]: https://firebase.google.com/
 
 
 
