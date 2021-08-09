@@ -41,7 +41,7 @@
     Languages and Tools used
 </h3>
 
-[<img width="45px" src="https://techinscribed.com/wp-content/uploads/2019/12/vscode.png" />][vscode]
+[<img width="100px" src="https://techinscribed.com/wp-content/uploads/2019/12/vscode.png" />][vscode]
 
 <h3 align="center">
    📊 My Statistics
