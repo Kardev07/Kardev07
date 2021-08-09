@@ -45,6 +45,7 @@
 [<img width="45px" src="https://www.programmersought.com/images/282/eb2c5acfb0cf98f7219e8195e43c5732.png" />][anaconda] &nbsp;&nbsp;
 [<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952168179281960/UHqP0Hyalcn6Tqx5oAAAAASUVORK5CYII.png" />][github] &nbsp;&nbsp;
 [<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git] &nbsp;&nbsp;
+[<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][js] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -69,6 +70,7 @@
 [vscode]: https://code.visualstudio.com/
 [anaconda]: https://www.anaconda.com/
 [git]: https://git-scm.com/
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
 
