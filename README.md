@@ -50,6 +50,7 @@
 [<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css] &nbsp;&nbsp;
 [<img width="50px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />][react] &nbsp;&nbsp;
 [<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />][next] &nbsp;&nbsp;
+[<img width="50px" src="https://img.icons8.com/color/452/nodejs.png" />][node] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -79,6 +80,7 @@
 [css]: https://www.w3schools.com/css/
 [react]: https://reactjs.org/
 [next]: https://nextjs.org/
+[node]: https://nodejs.org/
 
 
 
