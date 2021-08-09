@@ -42,6 +42,7 @@
 </h3>
 
 [<img width="45px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode]
+[<img width="45px" src="https://docs.anaconda.com/_images/Navigator_Launchpad_icon.png" />][anaconda]
 
 <h3 align="center">
    📊 My Statistics
@@ -64,6 +65,7 @@
 [github]: https://github.com/Kardev07
 [mail]: mailto:karthik.pariti101@gmail.com
 [vscode]: https://code.visualstudio.com/
+[anaconda]: https://www.anaconda.com/
 
 
 
