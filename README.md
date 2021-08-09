@@ -47,6 +47,7 @@
 [<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git] &nbsp;&nbsp;
 [<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][js] &nbsp;&nbsp;
 [<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html] &nbsp;&nbsp;
+[<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][js] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -73,6 +74,7 @@
 [git]: https://git-scm.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://www.w3.org/html/
+[css]: https://www.w3schools.com/css/
 
 
 
