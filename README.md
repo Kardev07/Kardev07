@@ -52,6 +52,7 @@
 [<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />][next] &nbsp;&nbsp;
 [<img width="50px" src="https://img.icons8.com/color/452/nodejs.png" />][node] &nbsp;&nbsp;
 [<img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python] &nbsp;&nbsp;
+[<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c] &nbsp;&nbsp;
 
 <h3 align="center">
    📊 My Statistics
@@ -83,6 +84,7 @@
 [next]: https://nextjs.org/
 [node]: https://nodejs.org/
 [python]: https://www.python.org/
+[c]: https://www.cprogramming.com/
 
 
 
