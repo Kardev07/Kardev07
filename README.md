@@ -27,6 +27,7 @@
 </h3>
 
 - [Cloud Computing Services and how to add Google Firebase to your Web Application](https://karthikpariti.medium.com/cloud-computing-services-and-how-to-add-google-firebase-to-your-web-app-96ef74939e62)
+- [What is the difference between Image tag in NextJs and the normal img tag](https://kardev07.hashnode.dev/what-is-the-difference-between-an-image-tag-in-nextjs-and-the-regular-img-tag)
 
 <h3>
     Links to my Social Media💻:
