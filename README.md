@@ -26,10 +26,8 @@
     📕 Links to my Blogs
 </h3>
 
-- [Cloud Computing Services and how to add Google Firebase to your Web Application](https://karthikpariti.medium.com/cloud-computing-services-and-how-to-add-google-firebase-to-your-web-app-96ef74939e62)
-- [What is the difference between Image tag in NextJs and the normal img tag](https://kardev07.hashnode.dev/what-is-the-difference-between-an-image-tag-in-nextjs-and-the-regular-img-tag)
-- [Which code editor should you choose? General thesis about code editors and IDE's](https://kardev07.hashnode.dev/which-code-editor-should-you-choose-general-thesis-about-code-editors-and-ides)
-- [Frameworks and their use cases. When should you use a specific type of framework?](https://kardev07.hashnode.dev/frameworks-and-their-use-cases-when-should-you-use-a-specific-type-of-framework)
+- Check out my blogs on [Hashnode](https://kardev07.hashnode.dev/)
+- Check out my blogs on [Medium](https://karthikpariti.medium.com/)
 
 <h3>
     Links to my Social Media💻:
