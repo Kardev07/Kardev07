@@ -63,7 +63,7 @@
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kardev07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kardev07&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">
     Feel free to refer or fork the repos and be sure to star them!
