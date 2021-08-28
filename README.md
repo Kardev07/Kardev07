@@ -17,10 +17,14 @@
 - 👯 I’m looking to collaborate on any Web Devlopment or AI Project
 - 🤔 I’m looking for a breakthrough in my Web Devlopment Career!
 - 💬 Ask me about how I got into programming and my interests!
-- 📫 Mail Me: karthik.pariti101@gmail.com
+- 📫 Mail me at karthik.pariti101@gmail.com
 - 🙆‍♂️ Check out my [Resume](https://resume-9f5c3.web.app/)
 - 🙆‍♂️ Check out my [Portfolio](https://kardev07.github.io/my-portfolio/)
 - ⚡ Fun fact: I used to hate Programming once!!
+
+<h3>All my contacts!</h3>
+
+- Check out all my contacts [here!](https://links-app-kardev07.vercel.app)
 
 <h3>
     📕 Links to my Blogs
@@ -28,10 +32,6 @@
 
 - Check out my blogs on [Hashnode](https://kardev07.hashnode.dev/)
 - Check out my blogs on [Medium](https://karthikpariti.medium.com/)
-
-<h3>All my contacts!</h3>
-
-- Check out all my contacts [here!](https://links-app-kardev07.vercel.app)
 
 <h3>
     Languages and Tools used
