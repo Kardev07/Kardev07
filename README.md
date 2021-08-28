@@ -24,7 +24,7 @@
 
 <h3>How to reach me?!</h3>
 
-- Feel free to reach me over [here!](https://links-app-kardev07.vercel.app)
+- Feel free to reach me out on any platforms listed [here!](https://links-app-kardev07.vercel.app)
 
 <h3>
     📕 Links to my Blogs
