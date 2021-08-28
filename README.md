@@ -58,7 +58,7 @@
 [<img width="50px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][c++] &nbsp;&nbsp;
 
 <h3 align="center">
-   📊 My Statistics
+   📊 GitHub Statistics
 </h3>
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=dracula)
