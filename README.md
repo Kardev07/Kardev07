@@ -22,9 +22,9 @@
 - 🙆‍♂️ Check out my [Portfolio](https://kardev07.github.io/my-portfolio/)
 - ⚡ Fun fact: I used to hate Programming once!!
 
-<h3>All my contacts!</h3>
+<h3>How to reach me?!</h3>
 
-- Check out all my contacts [here!](https://links-app-kardev07.vercel.app)
+- Feel free to reach me over [here!](https://links-app-kardev07.vercel.app)
 
 <h3>
     📕 Links to my Blogs
