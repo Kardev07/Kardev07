@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on any Web Devlopment or AI Project
 - 🤔 I’m looking for a breakthrough in my Web Devlopment Career!
 - 💬 Ask me about how I got into programming and my interests!
-- 📫 How to reach me: Mail Me: karthik.pariti101@gmail.com
+- 📫 Mail Me: karthik.pariti101@gmail.com
 - 🙆‍♂️ Check out my [Resume](https://resume-9f5c3.web.app/)
 - 🙆‍♂️ Check out my [Portfolio](https://kardev07.github.io/my-portfolio/)
 - ⚡ Fun fact: I used to hate Programming once!!
@@ -29,14 +29,9 @@
 - Check out my blogs on [Hashnode](https://kardev07.hashnode.dev/)
 - Check out my blogs on [Medium](https://karthikpariti.medium.com/)
 
-<h3>
-    Links to my Social Media💻:
-</h3>
+<h3>All my contacts!</h3>
 
-- [<img width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
-- [<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-- [<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952168179281960/UHqP0Hyalcn6Tqx5oAAAAASUVORK5CYII.png" />][github]
-- [<img width="45px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" />][mail]
+- Check out all my contacts [here!](https://links-app-kardev07.vercel.app)
 
 <h3>
     Languages and Tools used
