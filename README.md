@@ -56,7 +56,7 @@
    📊 GitHub Statistics
 </h3>
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=dracula)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kardev07&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
