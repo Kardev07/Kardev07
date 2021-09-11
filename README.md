@@ -69,7 +69,7 @@
     Made by Karthik
 </h6>
 
-
+[github]: https://github.com/Kardev07
 [vscode]: https://code.visualstudio.com/
 [anaconda]: https://www.anaconda.com/
 [git]: https://git-scm.com/
