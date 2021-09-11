@@ -69,10 +69,7 @@
     Made by Karthik
 </h6>
 
-[twitter]: https://twitter.com/MrPkar
-[instagram]: https://www.instagram.com/__mr.pkar__/
-[github]: https://github.com/Kardev07
-[mail]: mailto:karthik.pariti101@gmail.com
+
 [vscode]: https://code.visualstudio.com/
 [anaconda]: https://www.anaconda.com/
 [git]: https://git-scm.com/
