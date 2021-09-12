@@ -55,7 +55,7 @@
    📊 GitHub Statistics
 </h3>
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=gradient)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardev07&show_icons=true&theme=Gradient)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kardev07)](https://git.io/streak-stats)
 
