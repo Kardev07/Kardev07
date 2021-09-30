@@ -26,7 +26,7 @@
 - Feel free to reach me out on any platforms listed [here!](https://links-app-kardev07.vercel.app)
 
 <h3>
-    📕 Links to my Blogs
+    📕 Blogs and Articles
 </h3>
 
 - Check out my blogs on [Hashnode](https://kardev07.hashnode.dev/)
