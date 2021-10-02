@@ -1,5 +1,5 @@
 <h3 align="center">
-    < Hi There! /> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+    < Hi There! /> <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40" height="40" />
 </h3>
 
 <h1 align="center">
