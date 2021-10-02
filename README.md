@@ -1,5 +1,5 @@
 <h3 align="center">
-    < Hi There! /> ![](https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif)
+    < Hi There! /> ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </h3>
 
 <h1 align="center">
