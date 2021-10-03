@@ -1,5 +1,5 @@
 <h3 align="center">
-    < Hi There! /> <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40" height="40" />
+    < Hi There! /> ![image](https://user-images.githubusercontent.com/77888951/135758608-759b236a-0412-45ee-aaac-74bcfa39c8b0.png)
 </h3>
 
 <h1 align="center">
