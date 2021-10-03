@@ -1,5 +1,5 @@
 <h3 align="center">
-    < Hi There! /> ![image](https://user-images.githubusercontent.com/77888951/135758608-759b236a-0412-45ee-aaac-74bcfa39c8b0.png)
+    < Hi There! /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h3>
 
 <h1 align="center">
